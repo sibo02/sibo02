@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Sibrat 👋
 
-<!--
-**sibo02/sibo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student
+💻 Aspiring Web Developer
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Passionate about technology and software development
+- Building a strong foundation in web development
+- Continuously improving my coding and problem-solving skills
+- Interested in creating user-friendly and responsive websites
+- Working toward becoming a professional web developer
+Tech Stack
+- JavaScript
+- react
+- c++
+- java
+- Git
+- GitHub
+Current Goals
+- Complete internship projects and challenges
+- Build and publish web development projects
+- Contribute regularly to GitHub
+- Grow as a software engineer 
+Fun Fact
+🐱 I love cats and hope to rescue stray cats in the future.
+
+Favorite Quote
+
+"Don't wish it were easier, wish you were better"
